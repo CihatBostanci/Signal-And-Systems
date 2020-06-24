@@ -9,7 +9,7 @@ import sys
 import matplotlib.pyplot as plt
 
 In the beginning, Discrete signals that have high dimensions and needed the resolution and 
-is the best practice to learn how to analyze understanding. 
+is the best practice to learn how to analyze understanding fundementals about Signal and Systems. 
 In this code is about the evaluation of the discrete signals. 
 
 
